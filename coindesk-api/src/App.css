@@ -1,0 +1,33 @@
+.nav {
+  padding: 25px;
+  background-color: goldenrod;
+}
+
+
+.price-container {
+  display: 'flex';
+  justify-content: space-around;
+  align-items: center;
+  width: 600;
+  height: 300;
+  margin: '0 auto'
+}
+
+.form {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  
+}
+
+.price {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.chart {
+  display: flex;
+  justify-content: center;
+}
